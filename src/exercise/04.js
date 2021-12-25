@@ -68,8 +68,6 @@ function Board() {
     )
   }
 
-  // function updateLocalStorage() {
-  // }
 
   return (
     <div>
